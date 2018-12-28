@@ -6,3 +6,5 @@ git add "dosya ismi"
 git commit -m "comment ekle"
 git push
 git pull
+git branch
+git checkout "yeni branch ismi"
